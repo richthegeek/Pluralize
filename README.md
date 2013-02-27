@@ -1,4 +1,4 @@
-Pluralize
+Usage
 =========
 
-Pluralizes words
+pluralize(4, 'is', 'color') => ['are', 'colors']
