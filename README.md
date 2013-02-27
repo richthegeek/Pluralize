@@ -1,0 +1,4 @@
+Pluralize
+=========
+
+Pluralizes words
