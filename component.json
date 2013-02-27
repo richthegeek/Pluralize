@@ -1,0 +1,15 @@
+{
+  "name": "Pluralize",
+  "repo": "richthegeek/pluralize",
+  "description": "Pluralizes words based on a count",
+  "version": "0.1.0",
+  "keywords": [
+    "pluralize",
+    "pluralise",
+    "plural"
+  ],
+  "license": "GPLv2",
+  "scripts": [
+    "pluralize.js"
+  ]
+}
